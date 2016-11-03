@@ -240,3 +240,17 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+wifitreemeasure/html/Information.html
+wifitreemeasure/html/NTPSettings.html
+wifitreemeasure/html/NetworkConfig.html
+wifitreemeasure/html/Script.js
+wifitreemeasure/html/Style.css
+wifitreemeasure/html/admin.html
+wifitreemeasure/html/config.html
+wifitreemeasure/html/general.html
+wifitreemeasure/html/info.html
+wifitreemeasure/html/ntp.html
+wifitreemeasure/wifitreemeasure_.ino_
+wifitreemeasure/__vm/Compile.vmps.xml
+wifitreemeasure/__vm/Configuration.Debug.vmps.xml
+wifitreemeasure/__vm/Upload.vmps.xml
