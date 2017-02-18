@@ -75,6 +75,8 @@ void setup() {
 		// January 21, 2014 at 3am you would call:
 		 //rtc.adjust(DateTime(2016, 11, 3, 20, 56, 0));
 	}
+
+	ticker.attach(5.0, printTime);
    
 }
 
@@ -150,8 +152,8 @@ void setupConfig() {
 	if ((WIFI_connected != WL_CONNECTED) or !CFG_saved) {
 		// DEFAULT CONFIG
 		Serial.println("Setting AP mode default parameters");
-		config.ssid = "ESP8266-" + String(ESP.getChipId(), HEX);       // SSID of access point
-		config.password = "";   // password of access point
+		config.ssid = "espwifitree" + String(ESP.getChipId(), HEX);       // SSID of access point
+		config.password = "loapass";   // password of access point
 		config.dhcp = true;
 		config.IP[0] = 192; config.IP[1] = 168; config.IP[2] = 1; config.IP[3] = 100;
 		config.Netmask[0] = 255; config.Netmask[1] = 255; config.Netmask[2] = 255; config.Netmask[3] = 0;

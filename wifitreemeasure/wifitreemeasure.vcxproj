@@ -47,7 +47,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>H:\progs\arduino-1.6.12\libraries;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries;C:\Users\Hannes\Documents\Arduino\libraries;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266\libb64;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266\spiffs;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266\umm_malloc;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\variants\adafruit;H:\gitProjects_mine\wifitreemeasure\wifitreemeasure;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0/tools/sdk/include;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0/tools/sdk/lwip/include;{build.path}/core;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include\c++\4.8.2;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include\c++\4.8.2\xtensa-lx106-elf;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\lib\gcc\xtensa-lx106-elf\4.8.2\include;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\tools\sdk\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\Wire;C:\Users\Hannes\Documents\Arduino\libraries\RTClib;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266WiFi\src;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266mDNS;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266WebServer\src;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ArduinoOTA;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\Ticker;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\EEPROM;C:\Users\Hannes\Documents\Arduino\libraries\Adafruit_MCP23008_library;C:\Users\Hannes\Documents\Arduino\libraries\Adafruit_MCP23008_library\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ArduinoOTA\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\EEPROM\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266mDNS\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266WebServer\src\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266WiFi\src\utility;C:\Users\Hannes\Documents\Arduino\libraries\RTClib\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\Ticker\utility;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\Wire\utility;H:\progs\arduino-1.6.12\libraries;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries;C:\Users\Hannes\Documents\Arduino\libraries;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266\libb64;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266\spiffs;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266\umm_malloc;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\variants\adafruit;H:\gitProjects_mine\wifitreemeasure\wifitreemeasure;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0/tools/sdk/include;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0/tools/sdk/lwip/include;C:\Users\Hannes\AppData\Local\Temp\VMicroBuilds\wifitreemeasure\esp8266_huzzah/core;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\variants\adafruit;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\Wire;C:\Users\Hannes\Documents\Arduino\libraries\RTClib;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266WiFi\src;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266mDNS;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ESP8266WebServer\src;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\ArduinoOTA;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\Ticker;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\EEPROM;C:\Users\Hannes\Documents\Arduino\libraries\Adafruit_MCP23008_library;H:\progs\arduino-1.6.12\libraries;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\pleyecnd.id3\Micro Platforms\default\debuggers;C:\Users\Hannes\Documents\Arduino\libraries;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include\c++\4.8.2;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include\c++\4.8.2\xtensa-lx106-elf;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\lib\gcc\xtensa-lx106-elf\4.8.2\include;C:\Users\Hannes\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.3.0\tools\sdk\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>H:\gitProjects_mine\wifitreemeasure\wifitreemeasure\__vm\.wifitreemeasure.vsarduino.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
       <IgnoreStandardIncludePath>false</IgnoreStandardIncludePath>
       <PreprocessorDefinitions>__ESP8266_ESp8266__;__ESP8266_ESP8266__;__ets__;ICACHE_FLASH;F_CPU=80000000L;LWIP_OPEN_SRC;ARDUINO=106012;ARDUINO_ESP8266_ESP12;ARDUINO_ARCH_ESP8266;ESP8266;__cplusplus=201103L;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -82,9 +82,41 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="global.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="NTP.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_Admin.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_General.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_Information.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_NetworkConfiguration.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_NTPSettings.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_Script.js.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
+    <ClInclude Include="Page_Style.css.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
     <ClInclude Include="__vm\.wifitreemeasure.vsarduino.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties arduino.upload.port="COM4" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>
